@@ -1,4 +1,4 @@
-import "../../src/setup.js";
+import "../../src/config/setup.js";
 import supertest from "supertest";
 import faker from "faker";
 
